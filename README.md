@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=700&lines=Core+Computer+Science+Focused;Python+%7C+C%2B%2B+Developer;Scientific+Computing+Enthusiast;Learning+Something+New+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=700&lines=Core+Computer+Science+Focused;Scientific+Computing+Enthusiast;Learning+Something+New+Everyday" />
 </p>
 
 ---

@@ -12,10 +12,10 @@
 
 # 🚀 Who Am I?
 
-🎓 Electronics & Computer Science Engineering Student  
-🧩 Obsessed with Core CS Fundamentals  
-📊 Exploring Scientific Computing & Data Systems  
-⚙️ Interested in Performance, Efficiency & Clean Architecture  
+⇝A SIMPLE GUY
+⇝DOES LITTLE CODING
+⇝LOVES IDEATING IN REAL LIFE PROBLEMS
+⇝TRYING TO COPE UP WITH TECHNOLOGIES
 
 
 ---

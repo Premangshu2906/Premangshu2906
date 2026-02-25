@@ -35,11 +35,13 @@
 ## 📚 Scientific & Data Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-- NumPy 
-- Pandas 
+- NumPy  
+- Pandas  
+ 
 ---
 
 ## 🧩 Other Technologies
@@ -56,7 +58,7 @@
 
 
 
-# 📊 GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Premangshu2906&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170"/>

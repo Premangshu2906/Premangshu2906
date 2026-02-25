@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
 </p>
 
 
@@ -16,7 +16,7 @@
 🧩 Obsessed with Core CS Fundamentals  
 📊 Exploring Scientific Computing & Data Systems  
 ⚙️ Interested in Performance, Efficiency & Clean Architecture  
-🔥 Documenting my engineering journey publicly  
+
 
 ---
 
@@ -55,8 +55,6 @@
 - VS Code → Daily battleground  
 
 ---
-
-
 
 ## GitHub Analytics
 

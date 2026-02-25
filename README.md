@@ -83,9 +83,7 @@
 ---
 
 <p align="center">
-  <b>⚡ Engineering is not a degree. It's a discipline. ⚡</b>
+  <b>⚡ THAT'S ALL BROTHER! ⚡</b>
 </p>
 
-<p align="center">
-  <i>Still building. Still learning. Still uncomfortable.</i>
-</p>
+

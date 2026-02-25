@@ -58,7 +58,7 @@
 
 
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Premangshu2906&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170"/>

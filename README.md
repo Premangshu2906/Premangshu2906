@@ -1,90 +1,138 @@
-<h1 align="center">Premangshu Chatterjee</h1>
+<h1 align="center">⚡ Premangshu Chatterjee ⚡</h1>
 
 <p align="center">
-  <b>Electronics & Computer Science Engineer</b>
+  <b>Electronics & Computer Science Engineer</b><br>
+  <i>Building systems. Solving problems. Engineering discipline.</i>
 </p>
 
 <p align="center">
-  <i>“Pushing myself to do the uncomfortable — because growth lives there.”</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=700&lines=Learning;Building;Failing;Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Engineer+in+Progress;Problem+Solver;Scientific+Computing+Explorer;Systems+Thinker;Consistency+%3E+Motivation;Learning+%F0%9F%94%81+Building+%F0%9F%9A%80+Improving" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 Philosophy
 
-- 🎓 Electronics & Computer Science Engineering Student  
-- 🧠 Deep interest in Core CS & Problem Solving  
-- 📊 Exploring Scientific Computing & Data Systems  
-- ⚡ Consistency > Motivation  
-- 🛠 Building discipline through uncomfortable challenges  
+> “Comfort builds nothing.  
+> Pressure builds engineers.”
+
+I believe growth lives in the uncomfortable zone.  
+Every day I try to:
+- Think deeper  
+- Build cleaner  
+- Solve harder problems  
+- Improve 1%  
 
 ---
 
-# 🛠 Technical Stack
+# 🚀 Who Am I?
+
+🎓 Electronics & Computer Science Engineering Student  
+🧩 Obsessed with Core CS Fundamentals  
+📊 Exploring Scientific Computing & Data Systems  
+⚙️ Interested in Performance, Efficiency & Clean Architecture  
+🔥 Documenting my engineering journey publicly  
+
+---
+
+# 🛠 Engineering Stack
 
 ## 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
+
+- 🐍 Python → Scientific computing, automation, backend logic  
+- ⚡ C++ → Problem solving, performance-focused programming  
 
 ---
 
-## 📚 Libraries
+## 📚 Scientific & Data Tools
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
+
+- NumPy → Vectorized computation & numerical systems  
+- Pandas → Structured data manipulation & analysis  
 
 ---
 
 ## 🧩 Other Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vibe%20Coding-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
+
+- SQL → Data querying & relational systems  
+- RPA → Process automation mindset  
+- VS Code → Daily battleground  
+
+---
+
+# 📈 What I’m Currently Building
+
+🔹 Deep dive into NumPy & Scientific Computing  
+🔹 Strengthening Data Structures & Algorithms  
+🔹 Engineering mini systems & MVPs  
+🔹 Documenting learning through projects  
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premangshu2906&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premangshu2906&layout=compact&langs_count=6&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Premangshu2906&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premangshu2906&layout=compact&langs_count=6&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Premangshu2906&theme=transparent" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Premangshu2906&theme=radical" height="170"/>
 </p>
+
+---
+
+# 🧠 Engineering Principles I Follow
+
+✔ Understand fundamentals deeply  
+✔ Write readable code first, clever code later  
+✔ Optimize only when necessary  
+✔ Build > Consume  
+✔ Consistency beats motivation  
+
+---
+
+# 🎯 Long-Term Vision
+
+I aim to build:
+
+- High-performance systems  
+- Data-intensive applications  
+- Scalable engineering products  
+- AI-powered tools  
+
+And eventually contribute to open-source projects that matter.
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/premangshuchatterjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Premangshu_Chatterjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-
-<p>
   <a href="mailto:premangshuchatterjee966@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-premangshuchatterjee966%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>THAT'S ALL BROTHER!</b>
+  <b>⚡ Engineering is not a degree. It's a discipline. ⚡</b>
+</p>
+
+<p align="center">
+  <i>Still building. Still learning. Still uncomfortable.</i>
 </p>

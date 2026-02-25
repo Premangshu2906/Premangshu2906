@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Electronics & Computer Science Engineer</b><br>
-  <i>Building systems. Solving problems. Engineering discipline.</i>
+  <i>Pushing myself to do the uncomfortable tasks</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
 </p>
 
 

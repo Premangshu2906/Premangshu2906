@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
 </p>
 
 
 # 🚀 Who Am I?
 <p>
 ⇝A SIMPLE GUY <br>
-⇝DOES LITTLE CODING
-⇝LOVES IDEATING IN REAL LIFE PROBLEMS
+⇝DOES LITTLE CODING <br>
+⇝LOVES IDEATING IN REAL LIFE PROBLEMS <br>
 ⇝TRYING TO COPE UP WITH TECHNOLOGIES
 </p>
 

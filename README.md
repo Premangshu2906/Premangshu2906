@@ -6,24 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Engineer+in+Progress;Problem+Solver;Scientific+Computing+Explorer;Systems+Thinker;Consistency+%3E+Motivation;Learning+%F0%9F%94%81+Building+%F0%9F%9A%80+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Learning;Building;Failing;Trying+Hard" />
 </p>
 
----
-
-# 🧠 Philosophy
-
-> “Comfort builds nothing.  
-> Pressure builds engineers.”
-
-I believe growth lives in the uncomfortable zone.  
-Every day I try to:
-- Think deeper  
-- Build cleaner  
-- Solve harder problems  
-- Improve 1%  
-
----
 
 # 🚀 Who Am I?
 
@@ -43,9 +28,8 @@ Every day I try to:
   <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-- 🐍 Python → Scientific computing, automation, backend logic  
-- ⚡ C++ → Problem solving, performance-focused programming  
-
+- 🐍 Python 
+- ⚡ C++ 
 ---
 
 ## 📚 Scientific & Data Tools
@@ -54,9 +38,8 @@ Every day I try to:
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
-- NumPy → Vectorized computation & numerical systems  
-- Pandas → Structured data manipulation & analysis  
-
+- NumPy 
+- Pandas 
 ---
 
 ## 🧩 Other Technologies
@@ -65,20 +48,13 @@ Every day I try to:
   <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
 
-- SQL → Data querying & relational systems  
-- RPA → Process automation mindset  
+- SQL 
+- RPA 
 - VS Code → Daily battleground  
 
 ---
 
-# 📈 What I’m Currently Building
 
-🔹 Deep dive into NumPy & Scientific Computing  
-🔹 Strengthening Data Structures & Algorithms  
-🔹 Engineering mini systems & MVPs  
-🔹 Documenting learning through projects  
-
----
 
 # 📊 GitHub Analytics
 
@@ -90,29 +66,6 @@ Every day I try to:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Premangshu2906&theme=radical" height="170"/>
 </p>
-
----
-
-# 🧠 Engineering Principles I Follow
-
-✔ Understand fundamentals deeply  
-✔ Write readable code first, clever code later  
-✔ Optimize only when necessary  
-✔ Build > Consume  
-✔ Consistency beats motivation  
-
----
-
-# 🎯 Long-Term Vision
-
-I aim to build:
-
-- High-performance systems  
-- Data-intensive applications  
-- Scalable engineering products  
-- AI-powered tools  
-
-And eventually contribute to open-source projects that matter.
 
 ---
 
